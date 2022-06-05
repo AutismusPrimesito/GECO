@@ -13,14 +13,12 @@
   position:left;
   width:20%;
   height:100%;
-  margin-left:5%;
-  margin-right:5%
+
  
 }
 #Derecha{
   margin:auto;
-  margin-left:5%;
-  margin-right:5%;
+  margin-right:0%;
   position:relative;
   width:20%;
   height:100%;
