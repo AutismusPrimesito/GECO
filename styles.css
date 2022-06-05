@@ -9,6 +9,7 @@
   background-image: url("689539.jpg");
   background-repeat: no-repeat;
   background-size: 100vw 100vh;
+  text-align: center;
 }
 #cuerpo{
    position: absolute;
