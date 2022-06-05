@@ -9,7 +9,7 @@
 
 }
 #Izquierda{
-  position:relative;
+  position:absolute;
   float:left;
   margin:auto;
   padding:5%;
@@ -30,7 +30,7 @@
 
 }
 #cuerpo{
-  position:absolute
+  position:relative
   margin:auto;
   width:60%;
   height:80%;
