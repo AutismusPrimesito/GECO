@@ -16,9 +16,9 @@
  
 }
 #Derecha{
-  position:absolute;
   margin:auto;
-  position:right;
+  margin-right:0%;
+  position:relative;
   width:20%;
   height:100%;
 
