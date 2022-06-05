@@ -13,7 +13,7 @@
   position:left;
   width:20%;
   height:100%;
-
+  overflow-x: visible;
  
 }
 #Derecha{
@@ -22,7 +22,7 @@
   position:relative;
   width:20%;
   height:100%;
- 
+  overflow-x: visible;
 
 }
 #cuerpo{
