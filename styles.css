@@ -54,7 +54,7 @@
     overflow-wrap: break-word;
     font-size: 1vh;
     border: solid #02edbd;
-    border-width: 1vh;
+    border-width: 0.5vh;
   background-color:rgba(255,255,255,0.5)
 
 }
@@ -69,4 +69,7 @@
 #descripcion{
   font-family: serif;
   font-family: sans-serif;
+}
+#lider{
+
 }
