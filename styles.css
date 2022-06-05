@@ -9,20 +9,23 @@
 }
 #Izquierda{
   position:absolute;
-  margin:auto;
   position:left;
+  margin:auto;
+  padding:5%;
   width:20%;
   height:100%;
-  overflow-x: visible;
- 
+  overflow: visible;
+  overflow-warp: break-word;
 }
 #Derecha{
   margin:auto;
   margin-right:0%;
   position:relative;
+  padding:5%;
   width:20%;
   height:100%;
-  overflow-x: visible;
+  overflow: visible;
+  overflow-warp: break-word;
 
 }
 #cuerpo{
