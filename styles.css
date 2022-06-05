@@ -7,12 +7,14 @@
   height: 100vh;
   position:absolute;
   background-image: url("689539.jpg");
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
 }
 #cuerpo{
-    position: absolute;
+   position: absolute;
     margin: auto;
-    margin-left: 20vh;
-    margin-right: 20vh;
+    margin-left: 50vh;
+    margin-right: 50vh;
     width: 80vh;
     height: 100vh;
     overflow: visible;
@@ -21,10 +23,10 @@
     font-family: Helvetica;
 }
 #Izquierda{
-  position: relative;
+ position: relative;
     float: left;
     margin: auto;
-    margin-left: 1px;
+    margin-left: 5vh;
     margin-top: 25px;
     padding: 3%;
     width: 10vh;
@@ -40,6 +42,7 @@
     float: right;
     margin: auto;
     margin-left: 0vh;
+    margin-right: 5vh;
     margin-top: 25px;
     padding: 3%;
     width: 10vh;
